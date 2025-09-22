@@ -1,0 +1,47 @@
+
+Day 3 – HTML Skeleton
+Create index.html.
+
+
+Add placeholder sections for each screen (e.g., <div id="welcome">…</div>).
+
+
+No styling yet — just the structure.;.
+
+
+Test that you can hide/show sections with simple JS display: none
+
+
+
+Past Assignment:
+
+Week 1 – Design & Structure
+Day 1 – Concept Lock-In
+Finalize your product name (something uplifting + productivity-focused).
+
+
+Write your one-sentence mission: “A simple planner that organizes tasks into easy, medium, and hard — with gratitude and mindfulness built in.”
+
+
+Create a list of 10–15 gratitude prompts and 10–15 mindful tips in a Google Doc.
+
+ (These will be your unique “feel-good” touch.)
+
+
+
+Day 2 – User Flow Mapping
+Open a notebook or whiteboard.
+
+
+Sketch the four screens: Welcome → Input → Categorization → Output.
+
+
+Decide which elements are must-have for MVP vs. later upgrades.
+
+
+Bonus: Think of a 2–3 color theme and font style that feels calming (e.g., light blue + cream + accent green).
+
+
+
+
+

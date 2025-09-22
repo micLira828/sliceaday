@@ -7,6 +7,9 @@ Slice your day, multiply your progress.
 ## Subheadline:
 A simple planner that breaks your tasks into easy, medium, and hard slices — with gratitude and mindfulness built in.
 
+
+## Diagram
+
 ![Alt text](task_management_flowchart.png "a title")
 
 
