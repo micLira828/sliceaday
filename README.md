@@ -119,3 +119,106 @@ Do one slow head roll in each direction.
 
 Take five deep breaths, counting each one.
 
+### MVPs and later upgrades
+
+
+#### MVP – Must-Have Elements
+#### These are the core features you need to actually deliver the app’s promise from day one:
+Task Input
+
+
+Simple “Add task” field
+
+
+Option to edit or delete a task
+
+
+Basic Categorization
+
+
+Easy, Medium, Hard buckets (manual drag-and-drop or simple dropdown)
+
+
+Daily View
+
+
+List of tasks organized by difficulty
+
+
+Ability to mark tasks complete
+
+
+Gratitude Prompt (lightweight version)
+
+
+One simple text field for “What’s one thing you’re grateful for today?”
+
+
+Persistence
+
+
+Local or cloud storage so tasks are saved between sessions
+
+
+Clean, Simple UI
+
+
+No complex animations yet, just clarity and speed
+
+
+
+### Later Upgrades – “Nice to Have” Features
+#### These deepen engagement, but aren’t necessary to launch:
+Mindfulness Prompt Customization
+
+
+Multiple mindfulness prompts to choose from or rotate daily
+
+
+Automatic Categorization
+
+
+AI or rules-based difficulty suggestions
+
+
+Visual Slices View
+
+
+Pie chart or stacked view of task difficulty
+
+
+Progress Tracking
+
+
+Weekly stats, streaks, and trends
+
+
+Daily Celebration Animation
+
+
+Confetti, smiley, or short animation upon completing all tasks
+
+
+Cloud Sync & Multi-Device
+
+
+Keep tasks synced across phone, tablet, and desktop
+
+
+Integrations
+
+
+Calendar sync, reminder notifications, task import from other apps
+
+
+Social / Community Features
+
+
+Share gratitude or progress with friends or groups
+
+
+
+If you want, I can map these MVP vs. upgrade features directly onto the flowchart we made so you can see exactly which parts launch first and which get added later. That would make the roadmap very clear.
+
+
+
