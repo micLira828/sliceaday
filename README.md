@@ -124,97 +124,97 @@ Take five deep breaths, counting each one.
 
 #### MVP – Must-Have Elements
 #### These are the core features you need to actually deliver the app’s promise from day one:
-Task Input
+* Task Input
 
 
-Simple “Add task” field
+* Simple “Add task” field
 
 
-Option to edit or delete a task
+* Option to edit or delete a task
 
 
-Basic Categorization
+* Basic Categorization
 
 
-Easy, Medium, Hard buckets (manual drag-and-drop or simple dropdown)
+* Easy, Medium, Hard buckets (manual drag-and-drop or simple dropdown)
 
 
-Daily View
+* Daily View
 
 
-List of tasks organized by difficulty
+* List of tasks organized by difficulty
 
 
-Ability to mark tasks complete
+* Ability to mark tasks complete
 
 
-Gratitude Prompt (lightweight version)
+* Gratitude Prompt (lightweight version)
 
 
-One simple text field for “What’s one thing you’re grateful for today?”
+* One simple text field for “What’s one thing you’re grateful for today?”
 
 
-Persistence
+* Persistence
 
 
-Local or cloud storage so tasks are saved between sessions
+* Local or cloud storage so tasks are saved between sessions
 
 
-Clean, Simple UI
+* Clean, Simple UI
 
 
-No complex animations yet, just clarity and speed
+* No complex animations yet, just clarity and speed
 
 
 
 ### Later Upgrades – “Nice to Have” Features
 #### These deepen engagement, but aren’t necessary to launch:
-Mindfulness Prompt Customization
+* Mindfulness Prompt Customization
 
 
-Multiple mindfulness prompts to choose from or rotate daily
+* Multiple mindfulness prompts to choose from or rotate daily
 
 
-Automatic Categorization
+* Automatic Categorization
 
 
-AI or rules-based difficulty suggestions
+* AI or rules-based difficulty suggestions
 
 
-Visual Slices View
+* Visual Slices View
 
 
-Pie chart or stacked view of task difficulty
+* Pie chart or stacked view of task difficulty
 
 
-Progress Tracking
+* Progress Tracking
 
 
-Weekly stats, streaks, and trends
+* Weekly stats, streaks, and trends
 
 
-Daily Celebration Animation
+* Daily Celebration Animation
 
 
-Confetti, smiley, or short animation upon completing all tasks
+* Confetti, smiley, or short animation upon completing all tasks
 
 
-Cloud Sync & Multi-Device
+* Cloud Sync & Multi-Device
 
 
-Keep tasks synced across phone, tablet, and desktop
+* Keep tasks synced across phone, tablet, and desktop
 
 
-Integrations
+* Integrations
 
 
-Calendar sync, reminder notifications, task import from other apps
+* Calendar sync, reminder notifications, task import from other apps
 
 
-Social / Community Features
+* Social / Community Features
 
 
-Share gratitude or progress with friends or groups
+* Share gratitude or progress with friends or groups
 
 
 
